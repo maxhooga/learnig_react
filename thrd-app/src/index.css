@@ -1,0 +1,26 @@
+.numpud {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content {
+  min-height: calc(100vh - 134px);
+  padding: 1rem;
+}
+
+.goods {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 1rem;
+}
+
+.cart {
+  width: 5rem;
+  position: fixed;
+  top: 64px;
+  right: 2rem;
+  cursor: pointer;
+  z-index: 10;
+  padding: 1rem;
+}

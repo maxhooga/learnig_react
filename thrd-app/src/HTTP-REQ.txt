@@ -1,0 +1,2217 @@
+{
+    "uid": "b21195599480002148562ac10c465f9e5fbf0dd2",
+    "warning": "This endpoint is deprecated, use v2",
+    "fullShop": true,
+    "endingDates": {
+        "daily": "2022-05-25T00:00:00+00:00",
+        "featured": "2022-05-25T00:00:00+00:00"
+    },
+    "featured": [
+        {
+            "id": "StreetFashionEclipseBundle",
+            "name": "STREET SHADOWS BUNDLE",
+            "description": "STREET SHADOWS BUNDLE",
+            "type": "bundle",
+            "rarity": "shadow series",
+            "internalRarity": "epic",
+            "price": 1500,
+            "priceNoDiscount": 2200,
+            "categories": "Panel 01",
+            "priority": -1,
+            "banner": "",
+            "offer": "v2:/6561a2a9836f14d5792b17e0cc6a5f1e3986d01048e51bddabb04e380917a471",
+            "releaseDate": "2021-09-09",
+            "lastAppearance": "2022-04-24",
+            "interest": 1.24,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_StreetFashionEclipseBundle.png",
+            "icon": "https://media.fortniteapi.io/images/8c631b6f0c90230a6fa8b287eab63bfe/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/8c631b6f0c90230a6fa8b287eab63bfe/background_full.en.png",
+            "items": [
+                "cid_a_007_athena_commando_f_streetfashioneclipse",
+                "bid_695_streetfashioneclipse",
+                "pickaxe_id_541_streetfashioneclipsefemale",
+                "glider_id_272_streetfashioneclipsefemale"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "CID_A_007_Athena_Commando_F_StreetFashionEclipse",
+                    "name": "Ruby Shadows",
+                    "description": "Sometimes you gotta go dark.",
+                    "type": "outfit",
+                    "rarity": "shadow series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/844b33e7bfb520ecdd545868892da34a/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/844b33e7bfb520ecdd545868892da34a/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/844b33e7bfb520ecdd545868892da34a/background_full.en.png"
+                    }
+                },
+                {
+                    "id": "BID_695_StreetFashionEclipse",
+                    "name": "Blackout Bag",
+                    "description": "They'll never know what's up.",
+                    "type": "backpack",
+                    "rarity": "shadow series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/e373acff03dcbce010fc35de89efbf03/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/e373acff03dcbce010fc35de89efbf03/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/e373acff03dcbce010fc35de89efbf03/background_full.en.png"
+                    }
+                },
+                {
+                    "id": "Pickaxe_ID_541_StreetFashionEclipseFemale",
+                    "name": "Shadow Slicer",
+                    "description": "Not even the darkness is safe.",
+                    "type": "pickaxe",
+                    "rarity": "shadow series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/b10f8653c32f3ce95a5845473d7af271/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/b10f8653c32f3ce95a5845473d7af271/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/b10f8653c32f3ce95a5845473d7af271/background_full.en.png"
+                    }
+                },
+                {
+                    "id": "Glider_ID_272_StreetFashionEclipseFemale",
+                    "name": "Sky Shadow",
+                    "description": "Shadow style signature stripe glider.",
+                    "type": "glider",
+                    "rarity": "shadow series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/c15bf82b047cb85d71f8d5eed4092e88/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/c15bf82b047cb85d71f8d5eed4092e88/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/c15bf82b047cb85d71f8d5eed4092e88/background_full.en.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": {}
+        },
+        {
+            "id": "CID_395_Athena_Commando_F_ShatterFly",
+            "name": "Dream",
+            "description": "Light breaks through.",
+            "type": "outfit",
+            "rarity": "rare",
+            "internalRarity": "rare",
+            "price": 1200,
+            "priceNoDiscount": 1200,
+            "categories": "Panel 01",
+            "priority": -2,
+            "banner": "",
+            "offer": "v2:/da965f386d6c608fc9556d51603cc70a7f01783b447a55cdd919080c6bffd63c",
+            "releaseDate": "2019-05-04",
+            "lastAppearance": "2022-04-23",
+            "interest": 1.12,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_CID_395_Athena_Commando_F_ShatterFly.png",
+            "icon": "https://media.fortniteapi.io/images/10c859459b6e62d11ce872d8c0adcba9/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/10c859459b6e62d11ce872d8c0adcba9/background_full.en.png",
+            "items": [
+                "cid_395_athena_commando_f_shatterfly",
+                "bid_256_shatterfly"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "BID_256_ShatterFly",
+                    "name": "Shattered Wing",
+                    "description": "Break through. ",
+                    "type": "backpack",
+                    "rarity": "rare",
+                    "internalRarity": "rare",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/e9c0a3563ec5b17b9b8e2d595bfb615f/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/e9c0a3563ec5b17b9b8e2d595bfb615f/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/e9c0a3563ec5b17b9b8e2d595bfb615f/background_full.en.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": {}
+        },
+        {
+            "id": "CID_394_Athena_Commando_M_MoonlightAssassin",
+            "name": "Luminos",
+            "description": "From the dark side to the light.",
+            "type": "outfit",
+            "rarity": "epic",
+            "internalRarity": "epic",
+            "price": 1500,
+            "priceNoDiscount": 1500,
+            "categories": "Panel 01",
+            "priority": -3,
+            "banner": "",
+            "offer": "v2:/3ee403bf5c55e26f1037fa0391bcf1c4e8dbf61a14ceaeaa79e26d6be6d30b83",
+            "releaseDate": "2019-05-04",
+            "lastAppearance": "2022-04-23",
+            "interest": 0.32,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_CID_394_Athena_Commando_M_MoonlightAssassin.png",
+            "icon": "https://media.fortniteapi.io/images/634ab006e6f2246f49151ef4972fa24d/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/634ab006e6f2246f49151ef4972fa24d/background_full.en.png",
+            "items": [
+                "cid_394_athena_commando_m_moonlightassassin",
+                "bid_255_moonlightassassin"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "BID_255_MoonlightAssassin",
+                    "name": "Lunar Light",
+                    "description": "Interstellar style. ",
+                    "type": "backpack",
+                    "rarity": "epic",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/4cf66728c2920b4c89aa39d4609b13cd/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/4cf66728c2920b4c89aa39d4609b13cd/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/4cf66728c2920b4c89aa39d4609b13cd/background_full.en.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": {}
+        },
+        {
+            "id": "Pickaxe_ID_200_MoonlightAssassin",
+            "name": "Astral Axe",
+            "description": "Swing through the stars.",
+            "type": "pickaxe",
+            "rarity": "epic",
+            "internalRarity": "epic",
+            "price": 1200,
+            "priceNoDiscount": 1200,
+            "categories": "Panel 01",
+            "priority": -4,
+            "banner": "",
+            "offer": "v2:/2ee01f7497c622b20f3b2ef8b9093aafe720d80c8f3e24baa0121ff2a4697077",
+            "releaseDate": "2019-05-04",
+            "lastAppearance": "2022-04-23",
+            "interest": 0.91,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_Pickaxe_ID_200_MoonlightAssassin.png",
+            "icon": "https://media.fortniteapi.io/images/54b5fbafce2723d3198106a3131623ff/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/54b5fbafce2723d3198106a3131623ff/background_full.en.png",
+            "items": [
+                "pickaxe_id_200_moonlightassassin"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": {}
+        },
+        {
+            "id": "Wrap_051_ShatterFly",
+            "name": "Shard Break",
+            "description": "Show your style.",
+            "type": "wrap",
+            "rarity": "rare",
+            "internalRarity": "rare",
+            "price": 500,
+            "priceNoDiscount": 500,
+            "categories": "Panel 01",
+            "priority": -5,
+            "banner": "",
+            "offer": "v2:/302242a298b6a793d454b153d1b854146ef21bc7979618465cc06e709b198617",
+            "releaseDate": "2019-05-04",
+            "lastAppearance": "2022-04-23",
+            "interest": 0.43,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_Wrap_051_ShatterFly.png",
+            "icon": "https://media.fortniteapi.io/images/bc94123979282c7a22122c253054ba07/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/bc94123979282c7a22122c253054ba07/background_full.en.png",
+            "items": [
+                "wrap_051_shatterfly"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": {}
+        },
+        {
+            "id": "Glider_ID_140_ShatterFly",
+            "name": "Arcana",
+            "description": "Soar on wings of mystery.",
+            "type": "glider",
+            "rarity": "epic",
+            "internalRarity": "epic",
+            "price": 1200,
+            "priceNoDiscount": 1200,
+            "categories": "Panel 02",
+            "priority": -6,
+            "banner": "",
+            "offer": "v2:/9f7b78ffc10c081f01e64345844566dd1f6444f51f99d37b2d15ab2c2ba42968",
+            "releaseDate": "2019-05-04",
+            "lastAppearance": "2022-04-23",
+            "interest": 0.48,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_Glider_ID_140_ShatterFly.png",
+            "icon": "https://media.fortniteapi.io/images/40e513d5c8a764937efd75bf8f52aec8/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/40e513d5c8a764937efd75bf8f52aec8/background_full.en.png",
+            "items": [
+                "glider_id_140_shatterfly"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": {}
+        },
+        {
+            "id": "CID_825_Athena_Commando_F_SportsFashion",
+            "name": "Adeline",
+            "description": "Don't get caught wearing last season's looks.",
+            "type": "outfit",
+            "rarity": "rare",
+            "internalRarity": "rare",
+            "price": 1200,
+            "priceNoDiscount": 1200,
+            "categories": "Panel 03",
+            "priority": -1,
+            "banner": "",
+            "offer": "v2:/f5ea2bb38f6a6469f792780e11c1feb1fdb29a775ba0288aeeeb45a6608d78ad",
+            "releaseDate": "2020-09-26",
+            "lastAppearance": "2022-04-14",
+            "interest": 1.4,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_CID_825_Athena_Commando_F_SportsFashion.png",
+            "icon": "https://media.fortniteapi.io/images/7bc87ac32d6db48513a39c2eccd8095e/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/7bc87ac32d6db48513a39c2eccd8095e/background_full.en.png",
+            "items": [
+                "cid_825_athena_commando_f_sportsfashion",
+                "bid_578_sportsfashion"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "BID_578_SportsFashion",
+                    "name": "Angular Chic",
+                    "description": "Hit your triangles.",
+                    "type": "backpack",
+                    "rarity": "rare",
+                    "internalRarity": "rare",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/f283bbc5d0302b3ecda2c9f60e0b0150/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/f283bbc5d0302b3ecda2c9f60e0b0150/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/f283bbc5d0302b3ecda2c9f60e0b0150/background_full.en.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": {}
+        },
+        {
+            "id": "Pickaxe_ID_448_SportsFashionFemale1H",
+            "name": "Cyclo Sticks",
+            "description": "Gyro-tuned battle batons.",
+            "type": "pickaxe",
+            "rarity": "rare",
+            "internalRarity": "rare",
+            "price": 800,
+            "priceNoDiscount": 800,
+            "categories": "Panel 03",
+            "priority": -2,
+            "banner": "",
+            "offer": "v2:/d43b7e0782ae76cd6fc04cd0aea918d87a923c8b19c3598e72bfaa21ddbc3a8f",
+            "releaseDate": "2020-09-26",
+            "lastAppearance": "2022-04-14",
+            "interest": 0.14,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_Pickaxe_ID_448_SportsFashionFemale1H.png",
+            "icon": "https://media.fortniteapi.io/images/f615310c74782b6a0a74e864238b1de2/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/f615310c74782b6a0a74e864238b1de2/background_full.en.png",
+            "items": [
+                "pickaxe_id_448_sportsfashionfemale1h"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": {}
+        },
+        {
+            "id": "Glider_ID_230_NeonGreen",
+            "name": "Fluorescent Flier",
+            "description": "Runway-ready.",
+            "type": "glider",
+            "rarity": "uncommon",
+            "internalRarity": "uncommon",
+            "price": 500,
+            "priceNoDiscount": 500,
+            "categories": "Panel 03",
+            "priority": -3,
+            "banner": "",
+            "offer": "v2:/77d018f9d269e9fb1fd08b6a35643807e77499c1576d0bc631556fb9b0483d45",
+            "releaseDate": "2020-09-26",
+            "lastAppearance": "2022-04-14",
+            "interest": 0.12,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_Glider_ID_230_NeonGreen.png",
+            "icon": "https://media.fortniteapi.io/images/a772f9fa5d709372327262727ea6690f/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/a772f9fa5d709372327262727ea6690f/background_full.en.png",
+            "items": [
+                "glider_id_230_neongreen"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": {}
+        },
+        {
+            "id": "CID_220_Athena_Commando_F_Clown",
+            "name": "Peekaboo",
+            "description": "I see you!",
+            "type": "outfit",
+            "rarity": "epic",
+            "internalRarity": "epic",
+            "price": 1500,
+            "priceNoDiscount": 1500,
+            "categories": "Panel 04",
+            "priority": -4,
+            "banner": "",
+            "offer": "v2:/d1698ab3b338809a4c287055c3c946e7b493255431932130f5b6bbd9b8324e30",
+            "releaseDate": "2018-09-23",
+            "lastAppearance": "2022-04-18",
+            "interest": 0.7,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_CID_220_Athena_Commando_F_Clown.png",
+            "icon": "https://media.fortniteapi.io/images/0a83daf-2c55699-594c1f0-43170f4/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/0a83daf-2c55699-594c1f0-43170f4/background_full.en.png",
+            "items": [
+                "cid_220_athena_commando_f_clown",
+                "bid_111_clownfemale"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "BID_111_ClownFemale",
+                    "name": "Battle Balloon",
+                    "description": "Where we poppin'?",
+                    "type": "backpack",
+                    "rarity": "epic",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/65b5dab-fa20d4c-36607ae-f28bd47/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/65b5dab-fa20d4c-36607ae-f28bd47/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/65b5dab-fa20d4c-36607ae-f28bd47/background_full.en.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": {}
+        },
+        {
+            "id": "CID_221_Athena_Commando_M_Clown",
+            "name": "Nite Nite",
+            "description": "Sleep tight!",
+            "type": "outfit",
+            "rarity": "epic",
+            "internalRarity": "epic",
+            "price": 1500,
+            "priceNoDiscount": 1500,
+            "categories": "Panel 04",
+            "priority": -5,
+            "banner": "",
+            "offer": "v2:/1c106445642b7a9bac11da75a9b627af7ee7d44cc288ac02dd83f47857a01a5f",
+            "releaseDate": "2018-09-23",
+            "lastAppearance": "2022-04-18",
+            "interest": 0.35,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_CID_221_Athena_Commando_M_Clown.png",
+            "icon": "https://media.fortniteapi.io/images/5669cf0-7dcbc51-c40d4eb-8f4d007/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/5669cf0-7dcbc51-c40d4eb-8f4d007/background_full.en.png",
+            "items": [
+                "cid_221_athena_commando_m_clown",
+                "bid_112_clownmale"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "BID_112_ClownMale",
+                    "name": "Balloon Llama",
+                    "description": "Inflate a friend.",
+                    "type": "backpack",
+                    "rarity": "epic",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/c888509-4f9b8f1-a65bf7e-26fa199/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/c888509-4f9b8f1-a65bf7e-26fa199/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/c888509-4f9b8f1-a65bf7e-26fa199/background_full.en.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": {}
+        },
+        {
+            "id": "Pickaxe_ID_031_Squeak",
+            "name": "Pick Squeak",
+            "description": "Squeak squeak! Squeak! Squeak squeak squeak!",
+            "type": "pickaxe",
+            "rarity": "epic",
+            "internalRarity": "epic",
+            "price": 1500,
+            "priceNoDiscount": 1500,
+            "categories": "Panel 04",
+            "priority": -6,
+            "banner": "",
+            "offer": "v2:/717f8301a076f92d1c7c38b0984c48a0e8d5330a1e5d57471308272101e512cb",
+            "releaseDate": "2018-03-04",
+            "lastAppearance": "2022-04-18",
+            "interest": 1.01,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_Pickaxe_ID_031_Squeak.png",
+            "icon": "https://media.fortniteapi.io/images/68e33eb-178fa5e-aead0c9-76d2f50/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/68e33eb-178fa5e-aead0c9-76d2f50/background_full.en.png",
+            "items": [
+                "pickaxe_id_031_squeak"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": {}
+        }
+    ],
+    "daily": [
+        {
+            "id": "CID_268_Athena_Commando_M_RockerPunk",
+            "name": "Riot",
+            "description": "Defining the pre-post-punk-post-hardcore scene.",
+            "type": "outfit",
+            "rarity": "rare",
+            "internalRarity": "rare",
+            "price": 1200,
+            "priceNoDiscount": 1200,
+            "categories": "zzDaily 01",
+            "priority": -1,
+            "banner": "",
+            "offer": "v2:/cbd1aa379db9bb2f966dd778bb587ea951ac14d047481e2d4c1b0b6d5cd9e74d",
+            "releaseDate": "2018-11-28",
+            "lastAppearance": "2022-03-24",
+            "interest": 0.53,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/v2/CID_268_M_RockerPunk.png",
+            "icon": "https://media.fortniteapi.io/images/6c98c7c-db3f9a2-1380909-8d9d1e1/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/6c98c7c-db3f9a2-1380909-8d9d1e1/background_full.en.png",
+            "items": [
+                "cid_268_athena_commando_m_rockerpunk"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": {}
+        },
+        {
+            "id": "CID_957_Athena_Commando_F_Ponytail",
+            "name": "Heart-Stopper",
+            "description": "Assassin trained to leave nothing but broken hearts in her wake.",
+            "type": "outfit",
+            "rarity": "rare",
+            "internalRarity": "rare",
+            "price": 1200,
+            "priceNoDiscount": 1200,
+            "categories": "zzDaily 02",
+            "priority": -2,
+            "banner": "",
+            "offer": "v2:/03dc0d7a15fab8f3a5313c76ebb62758bf1dd8cfe6a11006219d435176f75aab",
+            "releaseDate": "2020-11-23",
+            "lastAppearance": "2022-04-25",
+            "interest": 0.88,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/v2/CID_957_F_Ponytail.png",
+            "icon": "https://media.fortniteapi.io/images/bdbdb5d9c987fd29eb512555c1252dcb/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/bdbdb5d9c987fd29eb512555c1252dcb/background_full.en.png",
+            "items": [
+                "cid_957_athena_commando_f_ponytail",
+                "bid_654_ponytail"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "BID_654_Ponytail",
+                    "name": "Heart Target",
+                    "description": "Delivered with love.",
+                    "type": "backpack",
+                    "rarity": "rare",
+                    "internalRarity": "rare",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/1a46993bcebfca31dd79670a859fb8fd/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/1a46993bcebfca31dd79670a859fb8fd/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/1a46993bcebfca31dd79670a859fb8fd/background_full.en.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": {}
+        },
+        {
+            "id": "Wrap_468_StainedGlass",
+            "name": "Gilded Glass",
+            "description": "Show your style.",
+            "type": "wrap",
+            "rarity": "rare",
+            "internalRarity": "rare",
+            "price": 500,
+            "priceNoDiscount": 500,
+            "categories": "zzDaily 03",
+            "priority": -3,
+            "banner": "",
+            "offer": "v2:/be6028276395e4567ba1d4fa4b163f3b424a8b33a33fe9c2b867a552373e7692",
+            "releaseDate": "2022-04-23",
+            "lastAppearance": "2022-04-24",
+            "interest": 0.16,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/cd71fb4aed3f332578c8590c2bbda81a/featured.png",
+            "icon": "https://media.fortniteapi.io/images/cd71fb4aed3f332578c8590c2bbda81a/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/cd71fb4aed3f332578c8590c2bbda81a/background_full.en.png",
+            "items": [
+                "wrap_468_stainedglass"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": {}
+        },
+        {
+            "id": "EID_AcrobaticSuperhero",
+            "name": "Ground Pound",
+            "description": "Take it for a spin.",
+            "type": "emote",
+            "rarity": "uncommon",
+            "internalRarity": "uncommon",
+            "price": 200,
+            "priceNoDiscount": 200,
+            "categories": "zzDaily 04",
+            "priority": -4,
+            "banner": "",
+            "offer": "v2:/f28e1230d3c9c17cd081abb663ecc504f61c3b92f021d88686bf66627efa64dc",
+            "releaseDate": "2019-01-05",
+            "lastAppearance": "2022-04-22",
+            "interest": 0.53,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/5b9a866-7d3a15e-fa3e594-c5fa774/featured.png",
+            "icon": "https://media.fortniteapi.io/images/5b9a866-7d3a15e-fa3e594-c5fa774/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/5b9a866-7d3a15e-fa3e594-c5fa774/background_full.en.png",
+            "items": [
+                "eid_acrobaticsuperhero"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": {}
+        },
+        {
+            "id": "EID_Office",
+            "name": "Office Chariot",
+            "description": "Go for a spin.",
+            "type": "emote",
+            "rarity": "rare",
+            "internalRarity": "rare",
+            "price": 500,
+            "priceNoDiscount": 500,
+            "categories": "zzDaily 05",
+            "priority": -5,
+            "banner": "",
+            "offer": "v2:/9e69ff8de07878896cff2a8e1f2eb37ee389d91536b34d07456146022c2fb3fc",
+            "releaseDate": "2021-03-08",
+            "lastAppearance": "2022-04-15",
+            "interest": 0.7,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/v2/EID_Office.png",
+            "icon": "https://media.fortniteapi.io/images/7191d7b7092aa1078f307efeb46d5c59/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/7191d7b7092aa1078f307efeb46d5c59/background_full.en.png",
+            "items": [
+                "eid_office"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": {}
+        },
+        {
+            "id": "Wrap_130_LemonLime",
+            "name": "Zesty",
+            "description": "Show your style.",
+            "type": "wrap",
+            "rarity": "uncommon",
+            "internalRarity": "uncommon",
+            "price": 300,
+            "priceNoDiscount": 300,
+            "categories": "zzDaily 06",
+            "priority": -6,
+            "banner": "",
+            "offer": "v2:/2d68717d73f11442141af54180d899f33ae74713e2fc96009b3266d98855d7ad",
+            "releaseDate": "2019-09-19",
+            "lastAppearance": "2022-04-25",
+            "interest": 0.93,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_Wrap_130_LemonLime.png",
+            "icon": "https://media.fortniteapi.io/images/083fb4854d8548841a5c339ac7b2158e/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/083fb4854d8548841a5c339ac7b2158e/background_full.en.png",
+            "items": [
+                "wrap_130_lemonlime"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": {}
+        }
+    ],
+    "specialFeatured": [
+        {
+            "id": "Thrive_Bundle",
+            "name": "NAOMI OSAKA BUNDLE",
+            "description": "NAOMI OSAKA BUNDLE",
+            "type": "bundle",
+            "rarity": "icon series",
+            "internalRarity": "epic",
+            "price": 2700,
+            "priceNoDiscount": 4700,
+            "categories": "Panel 01",
+            "priority": -1,
+            "banner": "",
+            "offer": "v2:/2b4e3b378a5f215d22b011ad1ceb07e6af7cbfa3f5724ba785ce035b19123133",
+            "releaseDate": "2022-03-04",
+            "lastAppearance": "2022-05-23",
+            "interest": 0.51,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/378bb06e109b3ac2935adc292025305c/transparent.png",
+            "icon": "https://media.fortniteapi.io/images/378bb06e109b3ac2935adc292025305c/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/378bb06e109b3ac2935adc292025305c/background_full.en.png",
+            "items": [
+                "cid_a_361_athena_commando_f_thrive",
+                "bid_962_thrive",
+                "pickaxe_id_763_thrivefemale",
+                "cid_a_362_athena_commando_f_thrivespirit",
+                "bid_963_thrivespirit",
+                "pickaxe_id_764_thrivespiritfemale",
+                "eid_thrive",
+                "glider_id_352_thrivefemale",
+                "glider_id_353_thrivespiritfemale"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "CID_A_361_Athena_Commando_F_Thrive",
+                    "name": "Naomi Osaka",
+                    "description": "She's here to win.",
+                    "type": "outfit",
+                    "rarity": "icon series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/ec1a1a9fb3d85ffb00f597ee7a409bd4/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/ec1a1a9fb3d85ffb00f597ee7a409bd4/featured.png",
+                        "background": "https://media.fortniteapi.io/images/ec1a1a9fb3d85ffb00f597ee7a409bd4/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/ec1a1a9fb3d85ffb00f597ee7a409bd4/background_full.en.png"
+                    }
+                },
+                {
+                    "id": "BID_962_Thrive",
+                    "name": "Royale Racket",
+                    "description": "Anointed with the gleam of past Victory Crowns.",
+                    "type": "backpack",
+                    "rarity": "icon series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/4e61e4b0e9ad7809ab524a420d70aac3/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/4e61e4b0e9ad7809ab524a420d70aac3/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/4e61e4b0e9ad7809ab524a420d70aac3/background_full.en.png"
+                    }
+                },
+                {
+                    "id": "Pickaxe_ID_763_ThriveFemale",
+                    "name": "Royale Racket",
+                    "description": "Anointed with the gleam of past Victory Crowns.",
+                    "type": "pickaxe",
+                    "rarity": "icon series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/dd636840e5aedc5c5eec8bc4093f45d8/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/dd636840e5aedc5c5eec8bc4093f45d8/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/dd636840e5aedc5c5eec8bc4093f45d8/background_full.en.png"
+                    }
+                },
+                {
+                    "id": "CID_A_362_Athena_Commando_F_ThriveSpirit",
+                    "name": "Dark Priestess Naomi",
+                    "description": "Channeling power from beyond.",
+                    "type": "outfit",
+                    "rarity": "icon series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/d7152bd075550c0814a653ceefcf270d/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/d7152bd075550c0814a653ceefcf270d/featured.png",
+                        "background": "https://media.fortniteapi.io/images/d7152bd075550c0814a653ceefcf270d/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/d7152bd075550c0814a653ceefcf270d/background_full.en.png"
+                    }
+                },
+                {
+                    "id": "BID_963_ThriveSpirit",
+                    "name": "Portalforger Paddle",
+                    "description": "Summoning unknown realms with a single swing.",
+                    "type": "backpack",
+                    "rarity": "icon series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/942e7057661d8e46d4ae6a828ae0d4c9/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/942e7057661d8e46d4ae6a828ae0d4c9/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/942e7057661d8e46d4ae6a828ae0d4c9/background_full.en.png"
+                    }
+                },
+                {
+                    "id": "Pickaxe_ID_764_ThriveSpiritFemale",
+                    "name": "Portalforger Paddle",
+                    "description": "Summoning unknown realms with a single swing.",
+                    "type": "pickaxe",
+                    "rarity": "icon series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/f419626cc1ee1443d24c33689ca3426d/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/f419626cc1ee1443d24c33689ca3426d/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/f419626cc1ee1443d24c33689ca3426d/background_full.en.png"
+                    }
+                },
+                {
+                    "id": "EID_Thrive",
+                    "name": "Serve Stance",
+                    "description": "Get ready to rally.",
+                    "type": "emote",
+                    "rarity": "icon series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/a0e05c765c7c8515626a1ded5a678f40/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/a0e05c765c7c8515626a1ded5a678f40/featured.png",
+                        "background": "https://media.fortniteapi.io/images/a0e05c765c7c8515626a1ded5a678f40/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/a0e05c765c7c8515626a1ded5a678f40/background_full.en.png"
+                    }
+                },
+                {
+                    "id": "Glider_ID_352_ThriveFemale",
+                    "name": "The Queen's Cloudcarriage",
+                    "description": "An enchanted cloud crafted for royalty.",
+                    "type": "glider",
+                    "rarity": "icon series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/ac526143eafbddf9a2d6626d3354ab0c/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/ac526143eafbddf9a2d6626d3354ab0c/featured.png",
+                        "background": "https://media.fortniteapi.io/images/ac526143eafbddf9a2d6626d3354ab0c/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/ac526143eafbddf9a2d6626d3354ab0c/background_full.en.png"
+                    }
+                },
+                {
+                    "id": "Glider_ID_353_ThriveSpiritFemale",
+                    "name": "Cursed Hazeboard",
+                    "description": "Ride the fog of dimensions unseen.",
+                    "type": "glider",
+                    "rarity": "icon series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/5b5b5ee6bda5969816f838eb5405b573/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/5b5b5ee6bda5969816f838eb5405b573/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/5b5b5ee6bda5969816f838eb5405b573/background_full.en.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": {}
+        },
+        {
+            "id": "CID_A_361_Athena_Commando_F_Thrive",
+            "name": "Naomi Osaka",
+            "description": "She's here to win.",
+            "type": "outfit",
+            "rarity": "icon series",
+            "internalRarity": "epic",
+            "price": 2000,
+            "priceNoDiscount": 2000,
+            "categories": "Panel 01",
+            "priority": -2,
+            "banner": "",
+            "offer": "v2:/b604faf5034b1abe65f5d780c14a0efb20cb8da6cc2226e5a079d2bb760a7c23",
+            "releaseDate": "2022-03-04",
+            "lastAppearance": "2022-05-23",
+            "interest": 0.57,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/ec1a1a9fb3d85ffb00f597ee7a409bd4/featured.png",
+            "icon": "https://media.fortniteapi.io/images/ec1a1a9fb3d85ffb00f597ee7a409bd4/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/ec1a1a9fb3d85ffb00f597ee7a409bd4/background_full.en.png",
+            "items": [
+                "cid_a_361_athena_commando_f_thrive",
+                "bid_962_thrive",
+                "pickaxe_id_763_thrivefemale"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "BID_962_Thrive",
+                    "name": "Royale Racket",
+                    "description": "Anointed with the gleam of past Victory Crowns.",
+                    "type": "backpack",
+                    "rarity": "icon series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/4e61e4b0e9ad7809ab524a420d70aac3/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/4e61e4b0e9ad7809ab524a420d70aac3/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/4e61e4b0e9ad7809ab524a420d70aac3/background_full.en.png"
+                    }
+                },
+                {
+                    "id": "Pickaxe_ID_763_ThriveFemale",
+                    "name": "Royale Racket",
+                    "description": "Anointed with the gleam of past Victory Crowns.",
+                    "type": "pickaxe",
+                    "rarity": "icon series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/dd636840e5aedc5c5eec8bc4093f45d8/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/dd636840e5aedc5c5eec8bc4093f45d8/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/dd636840e5aedc5c5eec8bc4093f45d8/background_full.en.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": {}
+        },
+        {
+            "id": "CID_A_362_Athena_Commando_F_ThriveSpirit",
+            "name": "Dark Priestess Naomi",
+            "description": "Channeling power from beyond.",
+            "type": "outfit",
+            "rarity": "icon series",
+            "internalRarity": "epic",
+            "price": 1600,
+            "priceNoDiscount": 1600,
+            "categories": "Panel 01",
+            "priority": -3,
+            "banner": "",
+            "offer": "v2:/c75ebad648cc14e84fd1986144cfe91b12f5819cf199527b132322a130bf1d5d",
+            "releaseDate": "2022-03-04",
+            "lastAppearance": "2022-05-23",
+            "interest": 0.4,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/d7152bd075550c0814a653ceefcf270d/featured.png",
+            "icon": "https://media.fortniteapi.io/images/d7152bd075550c0814a653ceefcf270d/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/d7152bd075550c0814a653ceefcf270d/background_full.en.png",
+            "items": [
+                "cid_a_362_athena_commando_f_thrivespirit",
+                "bid_963_thrivespirit",
+                "pickaxe_id_764_thrivespiritfemale"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "BID_963_ThriveSpirit",
+                    "name": "Portalforger Paddle",
+                    "description": "Summoning unknown realms with a single swing.",
+                    "type": "backpack",
+                    "rarity": "icon series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/942e7057661d8e46d4ae6a828ae0d4c9/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/942e7057661d8e46d4ae6a828ae0d4c9/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/942e7057661d8e46d4ae6a828ae0d4c9/background_full.en.png"
+                    }
+                },
+                {
+                    "id": "Pickaxe_ID_764_ThriveSpiritFemale",
+                    "name": "Portalforger Paddle",
+                    "description": "Summoning unknown realms with a single swing.",
+                    "type": "pickaxe",
+                    "rarity": "icon series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/f419626cc1ee1443d24c33689ca3426d/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/f419626cc1ee1443d24c33689ca3426d/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/f419626cc1ee1443d24c33689ca3426d/background_full.en.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": {}
+        },
+        {
+            "id": "Glider_ID_352_ThriveFemale",
+            "name": "The Queen's Cloudcarriage",
+            "description": "An enchanted cloud crafted for royalty.",
+            "type": "glider",
+            "rarity": "icon series",
+            "internalRarity": "epic",
+            "price": 800,
+            "priceNoDiscount": 800,
+            "categories": "Panel 01",
+            "priority": -4,
+            "banner": "",
+            "offer": "v2:/aa718eaa4b3406b5d92a7d30815a50a6d5f01d63988de6600c821eedd2a8e1e0",
+            "releaseDate": "2022-03-04",
+            "lastAppearance": "2022-05-23",
+            "interest": 0.66,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/ac526143eafbddf9a2d6626d3354ab0c/featured.png",
+            "icon": "https://media.fortniteapi.io/images/ac526143eafbddf9a2d6626d3354ab0c/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/ac526143eafbddf9a2d6626d3354ab0c/background_full.en.png",
+            "items": [
+                "glider_id_352_thrivefemale",
+                "glider_id_353_thrivespiritfemale"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "Glider_ID_353_ThriveSpiritFemale",
+                    "name": "Cursed Hazeboard",
+                    "description": "Ride the fog of dimensions unseen.",
+                    "type": "glider",
+                    "rarity": "icon series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/5b5b5ee6bda5969816f838eb5405b573/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/5b5b5ee6bda5969816f838eb5405b573/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/5b5b5ee6bda5969816f838eb5405b573/background_full.en.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": {}
+        },
+        {
+            "id": "EID_Thrive",
+            "name": "Serve Stance",
+            "description": "Get ready to rally.",
+            "type": "emote",
+            "rarity": "icon series",
+            "internalRarity": "epic",
+            "price": 300,
+            "priceNoDiscount": 300,
+            "categories": "Panel 01",
+            "priority": -5,
+            "banner": "",
+            "offer": "v2:/b0bf9066bf84a31cd68ac28d692bc5831dc730ee2cd00b3b1f8df2de59f0ba22",
+            "releaseDate": "2022-03-04",
+            "lastAppearance": "2022-05-23",
+            "interest": 0.82,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/a0e05c765c7c8515626a1ded5a678f40/featured.png",
+            "icon": "https://media.fortniteapi.io/images/a0e05c765c7c8515626a1ded5a678f40/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/a0e05c765c7c8515626a1ded5a678f40/background_full.en.png",
+            "items": [
+                "eid_thrive"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": {}
+        },
+        {
+            "id": "Alfredo_Bundle",
+            "name": "ALI-A BUNDLE",
+            "description": "ALI-A BUNDLE",
+            "type": "bundle",
+            "rarity": "icon series",
+            "internalRarity": "epic",
+            "price": 2400,
+            "priceNoDiscount": 3600,
+            "categories": "Panel 16",
+            "priority": -1,
+            "banner": "",
+            "offer": "v2:/85385a27cde70c271eec44989f4869b26e2300a7a2f81281d80afc842dd9bcef",
+            "releaseDate": "2022-05-20",
+            "lastAppearance": "2022-05-23",
+            "interest": 0.39,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/eb49cc8cdda0ef92d8187be34dbdc58a/transparent.png",
+            "icon": "https://media.fortniteapi.io/images/eb49cc8cdda0ef92d8187be34dbdc58a/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/eb49cc8cdda0ef92d8187be34dbdc58a/background_full.en.png",
+            "items": [
+                "cid_a_415_athena_commando_m_alfredo",
+                "bid_a_012_alfredomale",
+                "glider_id_367_alfredomale",
+                "pickaxe_id_801_alfredomale",
+                "eid_alfredo",
+                "wrap_476_alfredo"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "CID_A_415_Athena_Commando_M_Alfredo",
+                    "name": "Ali-A",
+                    "description": "Leader of the Ali-A Army.",
+                    "type": "outfit",
+                    "rarity": "icon series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/69a8d22b9d1881254068d36382602134/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/69a8d22b9d1881254068d36382602134/featured.png",
+                        "background": "https://media.fortniteapi.io/images/69a8d22b9d1881254068d36382602134/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/69a8d22b9d1881254068d36382602134/background_full.en.png"
+                    }
+                },
+                {
+                    "id": "BID_A_012_AlfredoMale",
+                    "name": "Ali-Tech Backplate",
+                    "description": "Fusion-cooled storage for the battlefield.",
+                    "type": "backpack",
+                    "rarity": "icon series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/f277656c683c2f1def64723c2fdd0262/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/f277656c683c2f1def64723c2fdd0262/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/f277656c683c2f1def64723c2fdd0262/background_full.en.png"
+                    }
+                },
+                {
+                    "id": "Glider_ID_367_AlfredoMale",
+                    "name": "Ali-Tech Plasmawings",
+                    "description": "Soar towards a Victory Royale.",
+                    "type": "glider",
+                    "rarity": "icon series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/5625db2cfd6db655f5ca9bad3e7d07a2/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/5625db2cfd6db655f5ca9bad3e7d07a2/featured.png",
+                        "background": "https://media.fortniteapi.io/images/5625db2cfd6db655f5ca9bad3e7d07a2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/5625db2cfd6db655f5ca9bad3e7d07a2/background_full.en.png"
+                    }
+                },
+                {
+                    "id": "Pickaxe_ID_801_AlfredoMale",
+                    "name": "Ali-Tech Staff",
+                    "description": "Give it a whirl.",
+                    "type": "pickaxe",
+                    "rarity": "icon series",
+                    "internalRarity": "rare",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/6495ae9113b59fa03c258ad3d5b75bdd/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/6495ae9113b59fa03c258ad3d5b75bdd/featured.png",
+                        "background": "https://media.fortniteapi.io/images/6495ae9113b59fa03c258ad3d5b75bdd/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/6495ae9113b59fa03c258ad3d5b75bdd/background_full.en.png"
+                    }
+                },
+                {
+                    "id": "EID_Alfredo",
+                    "name": "Lil' Diplodocus",
+                    "description": "3, 2, 1, drop it...",
+                    "type": "emote",
+                    "rarity": "icon series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/ffad0eb653d05dee4e6e19f0872eb8ba/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/ffad0eb653d05dee4e6e19f0872eb8ba/featured.png",
+                        "background": "https://media.fortniteapi.io/images/ffad0eb653d05dee4e6e19f0872eb8ba/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/ffad0eb653d05dee4e6e19f0872eb8ba/background_full.en.png"
+                    }
+                },
+                {
+                    "id": "Wrap_476_Alfredo",
+                    "name": "The Blue A",
+                    "description": "Show your style.",
+                    "type": "wrap",
+                    "rarity": "icon series",
+                    "internalRarity": "rare",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/09e980215bac8f7c6b3b1b00fcf3b5dc/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/09e980215bac8f7c6b3b1b00fcf3b5dc/featured.png",
+                        "background": "https://media.fortniteapi.io/images/09e980215bac8f7c6b3b1b00fcf3b5dc/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/09e980215bac8f7c6b3b1b00fcf3b5dc/background_full.en.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": {}
+        },
+        {
+            "id": "CID_A_415_Athena_Commando_M_Alfredo",
+            "name": "Ali-A",
+            "description": "Leader of the Ali-A Army.",
+            "type": "outfit",
+            "rarity": "icon series",
+            "internalRarity": "epic",
+            "price": 1800,
+            "priceNoDiscount": 1800,
+            "categories": "Panel 16",
+            "priority": -2,
+            "banner": "",
+            "offer": "v2:/fae7c191503d86f8816af8edb4c6f15a49beff8bd77b72ce5ab3348a5854b0d0",
+            "releaseDate": "2022-05-20",
+            "lastAppearance": "2022-05-23",
+            "interest": 0.79,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/69a8d22b9d1881254068d36382602134/featured.png",
+            "icon": "https://media.fortniteapi.io/images/69a8d22b9d1881254068d36382602134/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/69a8d22b9d1881254068d36382602134/background_full.en.png",
+            "items": [
+                "cid_a_415_athena_commando_m_alfredo",
+                "bid_a_012_alfredomale",
+                "glider_id_367_alfredomale"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "BID_A_012_AlfredoMale",
+                    "name": "Ali-Tech Backplate",
+                    "description": "Fusion-cooled storage for the battlefield.",
+                    "type": "backpack",
+                    "rarity": "icon series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/f277656c683c2f1def64723c2fdd0262/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/f277656c683c2f1def64723c2fdd0262/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/f277656c683c2f1def64723c2fdd0262/background_full.en.png"
+                    }
+                },
+                {
+                    "id": "Glider_ID_367_AlfredoMale",
+                    "name": "Ali-Tech Plasmawings",
+                    "description": "Soar towards a Victory Royale.",
+                    "type": "glider",
+                    "rarity": "icon series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/5625db2cfd6db655f5ca9bad3e7d07a2/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/5625db2cfd6db655f5ca9bad3e7d07a2/featured.png",
+                        "background": "https://media.fortniteapi.io/images/5625db2cfd6db655f5ca9bad3e7d07a2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/5625db2cfd6db655f5ca9bad3e7d07a2/background_full.en.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": {}
+        },
+        {
+            "id": "Pickaxe_ID_801_AlfredoMale",
+            "name": "Ali-Tech Staff",
+            "description": "Give it a whirl.",
+            "type": "pickaxe",
+            "rarity": "icon series",
+            "internalRarity": "rare",
+            "price": 800,
+            "priceNoDiscount": 800,
+            "categories": "Panel 16",
+            "priority": -3,
+            "banner": "",
+            "offer": "v2:/3f67cdd962c459f722f853a3ecd19b5ad749e8df54e538d49daaa2701d2ab5b4",
+            "releaseDate": "2022-05-20",
+            "lastAppearance": "2022-05-23",
+            "interest": 0.17,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/6495ae9113b59fa03c258ad3d5b75bdd/featured.png",
+            "icon": "https://media.fortniteapi.io/images/6495ae9113b59fa03c258ad3d5b75bdd/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/6495ae9113b59fa03c258ad3d5b75bdd/background_full.en.png",
+            "items": [
+                "pickaxe_id_801_alfredomale"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": {}
+        },
+        {
+            "id": "EID_Alfredo",
+            "name": "Lil' Diplodocus",
+            "description": "3, 2, 1, drop it...",
+            "type": "emote",
+            "rarity": "icon series",
+            "internalRarity": "epic",
+            "price": 500,
+            "priceNoDiscount": 500,
+            "categories": "Panel 16",
+            "priority": -4,
+            "banner": "",
+            "offer": "v2:/fa09d2df27d99ea690b44f8f4759c39cf1caf59eeb682553f610b33222ab0fd2",
+            "releaseDate": "2022-05-20",
+            "lastAppearance": "2022-05-23",
+            "interest": 1.51,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/ffad0eb653d05dee4e6e19f0872eb8ba/featured.png",
+            "icon": "https://media.fortniteapi.io/images/ffad0eb653d05dee4e6e19f0872eb8ba/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/ffad0eb653d05dee4e6e19f0872eb8ba/background_full.en.png",
+            "items": [
+                "eid_alfredo"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": {}
+        },
+        {
+            "id": "Wrap_476_Alfredo",
+            "name": "The Blue A",
+            "description": "Show your style.",
+            "type": "wrap",
+            "rarity": "icon series",
+            "internalRarity": "rare",
+            "price": 500,
+            "priceNoDiscount": 500,
+            "categories": "Panel 16",
+            "priority": -5,
+            "banner": "",
+            "offer": "v2:/df6d653ca954455257a7798bb95465925019a8b811f03972b6a2ad76b3e1bd45",
+            "releaseDate": "2022-05-20",
+            "lastAppearance": "2022-05-23",
+            "interest": 0.13,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/09e980215bac8f7c6b3b1b00fcf3b5dc/featured.png",
+            "icon": "https://media.fortniteapi.io/images/09e980215bac8f7c6b3b1b00fcf3b5dc/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/09e980215bac8f7c6b3b1b00fcf3b5dc/background_full.en.png",
+            "items": [
+                "wrap_476_alfredo"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": {}
+        },
+        {
+            "id": "Jupiter_Bundle",
+            "name": "MASTER CHIEF BUNDLE",
+            "description": "MASTER CHIEF BUNDLE",
+            "type": "bundle",
+            "rarity": "platform series",
+            "internalRarity": "epic",
+            "price": 2600,
+            "priceNoDiscount": 4000,
+            "categories": "Panel 18",
+            "priority": -1,
+            "banner": "",
+            "offer": "v2:/3e7d23fdc82e4f0b97cd09af6499e5bc915e0035b0051666bac43e70484dad53",
+            "releaseDate": "2020-12-11",
+            "lastAppearance": "2022-05-23",
+            "interest": 0.88,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_Jupiter_Bundle.png",
+            "icon": "https://media.fortniteapi.io/images/111a15a14381deb8fea267a7c1f6348a/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/111a15a14381deb8fea267a7c1f6348a/background_full.en.png",
+            "items": [
+                "cid_971_athena_commando_m_jupiter_s0z6m",
+                "bid_665_jupiter_xd7ak",
+                "pickaxe_id_510_jupitermale_g035v",
+                "glider_id_258_jupitermale_lb0te",
+                "eid_jupiter_7jz9r"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "CID_971_Athena_Commando_M_Jupiter_S0Z6M",
+                    "name": "Master Chief",
+                    "description": "Master Chief Petty Officer John-117.",
+                    "type": "outfit",
+                    "rarity": "platform series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/7bf522a34af664a172ce581441985e75/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/7bf522a34af664a172ce581441985e75/featured.png",
+                        "background": "https://media.fortniteapi.io/images/7bf522a34af664a172ce581441985e75/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/7bf522a34af664a172ce581441985e75/background_full.en.png"
+                    }
+                },
+                {
+                    "id": "BID_665_Jupiter_XD7AK",
+                    "name": "Battle Legend",
+                    "description": "You will never know defeat. Maybe.",
+                    "type": "backpack",
+                    "rarity": "platform series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/d942480b1d69a57ebefebcec800cb36b/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/d942480b1d69a57ebefebcec800cb36b/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/d942480b1d69a57ebefebcec800cb36b/background_full.en.png"
+                    }
+                },
+                {
+                    "id": "Pickaxe_ID_510_JupiterMale_G035V",
+                    "name": "Gravity Hammer",
+                    "description": "Built to Smash and Grab.",
+                    "type": "pickaxe",
+                    "rarity": "platform series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/f9044de32d1d864c49289bb666ddba04/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/f9044de32d1d864c49289bb666ddba04/featured.png",
+                        "background": "https://media.fortniteapi.io/images/f9044de32d1d864c49289bb666ddba04/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/f9044de32d1d864c49289bb666ddba04/background_full.en.png"
+                    }
+                },
+                {
+                    "id": "Glider_ID_258_JupiterMale_LB0TE",
+                    "name": "UNSC Pelican",
+                    "description": "Mini-D77 Troop Carrier",
+                    "type": "glider",
+                    "rarity": "platform series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/5e624190ae738ba4bb6e652c4134ddf3/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/5e624190ae738ba4bb6e652c4134ddf3/featured.png",
+                        "background": "https://media.fortniteapi.io/images/5e624190ae738ba4bb6e652c4134ddf3/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/5e624190ae738ba4bb6e652c4134ddf3/background_full.en.png"
+                    }
+                },
+                {
+                    "id": "EID_Jupiter_7JZ9R",
+                    "name": "Lil' Warthog",
+                    "description": "Snack size M12 Force Application Vehicle.",
+                    "type": "emote",
+                    "rarity": "platform series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/6798d46441c2c8e5e219c8dd161c45b1/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/6798d46441c2c8e5e219c8dd161c45b1/featured.png",
+                        "background": "https://media.fortniteapi.io/images/6798d46441c2c8e5e219c8dd161c45b1/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/6798d46441c2c8e5e219c8dd161c45b1/background_full.en.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": {
+                "background": "#FFC6C7D6FF",
+                "gradient": {
+                    "start": "FF9797ACFF",
+                    "stop": "9797AC00"
+                }
+            }
+        },
+        {
+            "id": "CID_971_Athena_Commando_M_Jupiter_S0Z6M",
+            "name": "Master Chief",
+            "description": "Master Chief Petty Officer John-117.",
+            "type": "outfit",
+            "rarity": "platform series",
+            "internalRarity": "epic",
+            "price": 1500,
+            "priceNoDiscount": 1500,
+            "categories": "Panel 18",
+            "priority": -2,
+            "banner": "",
+            "offer": "v2:/811acef90ce82956b97c4d6153af5b28440458c720765f1f24f49a84035c940e",
+            "releaseDate": "2020-12-11",
+            "lastAppearance": "2022-05-23",
+            "interest": 1.51,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/v2/CID_971_M_Jupiter.png",
+            "icon": "https://media.fortniteapi.io/images/7bf522a34af664a172ce581441985e75/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/7bf522a34af664a172ce581441985e75/background_full.en.png",
+            "items": [
+                "cid_971_athena_commando_m_jupiter_s0z6m",
+                "bid_665_jupiter_xd7ak"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "BID_665_Jupiter_XD7AK",
+                    "name": "Battle Legend",
+                    "description": "You will never know defeat. Maybe.",
+                    "type": "backpack",
+                    "rarity": "platform series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/d942480b1d69a57ebefebcec800cb36b/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/d942480b1d69a57ebefebcec800cb36b/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/d942480b1d69a57ebefebcec800cb36b/background_full.en.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": {}
+        },
+        {
+            "id": "Pickaxe_ID_510_JupiterMale_G035V",
+            "name": "Gravity Hammer",
+            "description": "Built to Smash and Grab.",
+            "type": "pickaxe",
+            "rarity": "platform series",
+            "internalRarity": "epic",
+            "price": 800,
+            "priceNoDiscount": 800,
+            "categories": "Panel 18",
+            "priority": -3,
+            "banner": "",
+            "offer": "v2:/c3ca39ffc055989f510b2c45c37e2de6bb69575ee974fac8b5be7e67cf7afcd4",
+            "releaseDate": "2020-12-11",
+            "lastAppearance": "2022-05-23",
+            "interest": 0.29,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_Pickaxe_ID_510_JupiterMale_G035V.png",
+            "icon": "https://media.fortniteapi.io/images/f9044de32d1d864c49289bb666ddba04/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/f9044de32d1d864c49289bb666ddba04/background_full.en.png",
+            "items": [
+                "pickaxe_id_510_jupitermale_g035v"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": {}
+        },
+        {
+            "id": "Glider_ID_258_JupiterMale_LB0TE",
+            "name": "UNSC Pelican",
+            "description": "Mini-D77 Troop Carrier",
+            "type": "glider",
+            "rarity": "platform series",
+            "internalRarity": "epic",
+            "price": 1200,
+            "priceNoDiscount": 1200,
+            "categories": "Panel 18",
+            "priority": -4,
+            "banner": "",
+            "offer": "v2:/ada3ad20a589763de586712a3726eedaf9f6175d4b3133115f58c2d27eab3ab7",
+            "releaseDate": "2020-12-11",
+            "lastAppearance": "2022-05-23",
+            "interest": 0.29,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_Glider_ID_258_JupiterMale_LB0TE.png",
+            "icon": "https://media.fortniteapi.io/images/5e624190ae738ba4bb6e652c4134ddf3/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/5e624190ae738ba4bb6e652c4134ddf3/background_full.en.png",
+            "items": [
+                "glider_id_258_jupitermale_lb0te"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": {}
+        },
+        {
+            "id": "EID_Jupiter_7JZ9R",
+            "name": "Lil' Warthog",
+            "description": "Snack size M12 Force Application Vehicle.",
+            "type": "emote",
+            "rarity": "platform series",
+            "internalRarity": "epic",
+            "price": 500,
+            "priceNoDiscount": 500,
+            "categories": "Panel 18",
+            "priority": -5,
+            "banner": "",
+            "offer": "v2:/7433661444fd43ec4b568f082eb508a11c23abd1f65fe87f130cf8f4c6267f8d",
+            "releaseDate": "2020-12-11",
+            "lastAppearance": "2022-05-23",
+            "interest": 1.34,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/v2/EID_Jupiter.png",
+            "icon": "https://media.fortniteapi.io/images/6798d46441c2c8e5e219c8dd161c45b1/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/6798d46441c2c8e5e219c8dd161c45b1/background_full.en.png",
+            "items": [
+                "eid_jupiter_7jz9r"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": {}
+        },
+        {
+            "id": "RustyBolt_Gear_Bundle",
+            "name": "EMERGENCE GEAR BUNDLE",
+            "description": "EMERGENCE GEAR BUNDLE",
+            "type": "bundle",
+            "rarity": "platform series",
+            "internalRarity": "epic",
+            "price": 1600,
+            "priceNoDiscount": 2900,
+            "categories": "Panel 19",
+            "priority": -1,
+            "banner": "",
+            "offer": "v2:/53a1faa052c40574d040a8b3751f1a16da9ab78cd7866062c832470c82584403",
+            "releaseDate": "2021-12-10",
+            "lastAppearance": "2022-05-23",
+            "interest": 0.17,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/42fccc3020a213c78f2b4c9e7358b3f3/transparent.png",
+            "icon": "https://media.fortniteapi.io/images/42fccc3020a213c78f2b4c9e7358b3f3/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/42fccc3020a213c78f2b4c9e7358b3f3/background_full.en.png",
+            "items": [
+                "eid_rustybolt_zmr13",
+                "pickaxe_id_720_rustyboltmale_uz5e5",
+                "pickaxe_id_721_rustyboltslicemale_v3a4n",
+                "pickaxe_id_719_rustyboltfemale_0vj7j",
+                "glider_id_333_rustybolt_13ixr"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "EID_RustyBolt_ZMR13",
+                    "name": "Knife Tricks",
+                    "description": "Flourish of edged weapon skills.",
+                    "type": "emote",
+                    "rarity": "platform series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/fb6eac296f41eaca5b1ded281e8c7c2d/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/fb6eac296f41eaca5b1ded281e8c7c2d/featured.png",
+                        "background": "https://media.fortniteapi.io/images/fb6eac296f41eaca5b1ded281e8c7c2d/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/fb6eac296f41eaca5b1ded281e8c7c2d/background_full.en.png"
+                    }
+                },
+                {
+                    "id": "Pickaxe_ID_720_RustyBoltMale_UZ5E5",
+                    "name": "Thumper",
+                    "description": "Call the Seeders to the surface!",
+                    "type": "pickaxe",
+                    "rarity": "platform series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/6a782f36e348fb1e1dba725fea8186fc/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/6a782f36e348fb1e1dba725fea8186fc/featured.png",
+                        "background": "https://media.fortniteapi.io/images/6a782f36e348fb1e1dba725fea8186fc/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/6a782f36e348fb1e1dba725fea8186fc/background_full.en.png"
+                    }
+                },
+                {
+                    "id": "Pickaxe_ID_721_RustyBoltSliceMale_V3A4N",
+                    "name": "Butcher Cleaver",
+                    "description": "A tool for cutting Rockworm meat but also cutting down the COG.",
+                    "type": "pickaxe",
+                    "rarity": "platform series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/d4013ab6be415597548a34c2a6c46a15/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/d4013ab6be415597548a34c2a6c46a15/featured.png",
+                        "background": "https://media.fortniteapi.io/images/d4013ab6be415597548a34c2a6c46a15/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/d4013ab6be415597548a34c2a6c46a15/background_full.en.png"
+                    }
+                },
+                {
+                    "id": "Pickaxe_ID_719_RustyBoltFemale_0VJ7J",
+                    "name": "Breaker Mace",
+                    "description": "Locust Shell fragments affixed to a motorized rotating rod...yeah...this will break a tree.",
+                    "type": "pickaxe",
+                    "rarity": "platform series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/4829b7540763fe2cac71385bf7b4325b/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/4829b7540763fe2cac71385bf7b4325b/featured.png",
+                        "background": "https://media.fortniteapi.io/images/4829b7540763fe2cac71385bf7b4325b/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/4829b7540763fe2cac71385bf7b4325b/background_full.en.png"
+                    }
+                },
+                {
+                    "id": "Glider_ID_333_RustyBolt_13IXR",
+                    "name": "Skiff",
+                    "description": "Fast, wind powered, land vehicle that provides no protection from the elements.",
+                    "type": "glider",
+                    "rarity": "platform series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/ca97a6e43a8f3c62ab6584f2444b4ebf/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/ca97a6e43a8f3c62ab6584f2444b4ebf/featured.png",
+                        "background": "https://media.fortniteapi.io/images/ca97a6e43a8f3c62ab6584f2444b4ebf/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/ca97a6e43a8f3c62ab6584f2444b4ebf/background_full.en.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": {}
+        },
+        {
+            "id": "RustyBolt_Bundle",
+            "name": "KAIT & MARCUS BUNDLE",
+            "description": "KAIT & MARCUS BUNDLE",
+            "type": "bundle",
+            "rarity": "platform series",
+            "internalRarity": "epic",
+            "price": 2000,
+            "priceNoDiscount": 3000,
+            "categories": "Panel 19",
+            "priority": -1,
+            "banner": "",
+            "offer": "v2:/9ad5f0779ca66f8e699eed96a933f1a5fc9e3932e78710e4cd35de250791677a",
+            "releaseDate": "2021-12-10",
+            "lastAppearance": "2022-05-23",
+            "interest": 0.26,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/663843704d105cb1c8d8047bf12a3cac/transparent.png",
+            "icon": "https://media.fortniteapi.io/images/663843704d105cb1c8d8047bf12a3cac/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/663843704d105cb1c8d8047bf12a3cac/background_full.en.png",
+            "items": [
+                "cid_a_295_athena_commando_m_rustybolt_fehj0",
+                "bid_917_rustyboltmale_1dgtv",
+                "cid_a_294_athena_commando_f_rustybolt_db20x",
+                "bid_918_rustyboltfemale_j4jw1",
+                "spid_333_rustyboltcreature_zgf9s"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "CID_A_295_Athena_Commando_M_RustyBolt_FEHJ0",
+                    "name": "Marcus Fenix",
+                    "description": "Legendary hero of the Pendulum and Locust Wars brought back into the fight by his son.",
+                    "type": "outfit",
+                    "rarity": "platform series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/08f99ccd5dfd79d0222f630e36c04422/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/08f99ccd5dfd79d0222f630e36c04422/featured.png",
+                        "background": "https://media.fortniteapi.io/images/08f99ccd5dfd79d0222f630e36c04422/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/08f99ccd5dfd79d0222f630e36c04422/background_full.en.png"
+                    }
+                },
+                {
+                    "id": "BID_917_RustyBoltMale_1DGTV",
+                    "name": "Sonic Resonator",
+                    "description": "Created by the Coalition of Ordered Governments to map the underground tunnels of Sera.",
+                    "type": "backpack",
+                    "rarity": "platform series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/8bf0a0652da98f441fc010a91852639a/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/8bf0a0652da98f441fc010a91852639a/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/8bf0a0652da98f441fc010a91852639a/background_full.en.png"
+                    }
+                },
+                {
+                    "id": "CID_A_294_Athena_Commando_F_RustyBolt_DB20X",
+                    "name": "Kait Diaz",
+                    "description": "Outsider turned soldier in the COG Army and member of Delta-One.",
+                    "type": "outfit",
+                    "rarity": "platform series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/bfd737abeebc1ee8e4a74bcd87a663c6/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/bfd737abeebc1ee8e4a74bcd87a663c6/featured.png",
+                        "background": "https://media.fortniteapi.io/images/bfd737abeebc1ee8e4a74bcd87a663c6/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/bfd737abeebc1ee8e4a74bcd87a663c6/background_full.en.png"
+                    }
+                },
+                {
+                    "id": "BID_918_RustyBoltFemale_J4JW1",
+                    "name": "Reyna's Pendant",
+                    "description": "Family heirloom with mysterious origins.",
+                    "type": "backpack",
+                    "rarity": "platform series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/48f2b698eb0147ce8dab8f50ccd64fec/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/48f2b698eb0147ce8dab8f50ccd64fec/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/48f2b698eb0147ce8dab8f50ccd64fec/background_full.en.png"
+                    }
+                },
+                {
+                    "id": "SPID_333_RustyBoltCreature_ZGF9S",
+                    "name": "Emergence Hole",
+                    "description": "Leave your mark.",
+                    "type": "spray",
+                    "rarity": "platform series",
+                    "internalRarity": "uncommon",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/a6e896fab59aa26b54c0a3fd87ebf2aa/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/a6e896fab59aa26b54c0a3fd87ebf2aa/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/a6e896fab59aa26b54c0a3fd87ebf2aa/background_full.en.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": {}
+        },
+        {
+            "id": "CID_A_295_Athena_Commando_M_RustyBolt_FEHJ0",
+            "name": "Marcus Fenix",
+            "description": "Legendary hero of the Pendulum and Locust Wars brought back into the fight by his son.",
+            "type": "outfit",
+            "rarity": "platform series",
+            "internalRarity": "epic",
+            "price": 1500,
+            "priceNoDiscount": 1500,
+            "categories": "Panel 19",
+            "priority": -2,
+            "banner": "",
+            "offer": "v2:/5dfa4ded36a14bbf3686ef06b58dd7c31a6451153ec0953a91a45f574f3b5e23",
+            "releaseDate": "2021-12-10",
+            "lastAppearance": "2022-05-23",
+            "interest": 0.57,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/08f99ccd5dfd79d0222f630e36c04422/featured.png",
+            "icon": "https://media.fortniteapi.io/images/08f99ccd5dfd79d0222f630e36c04422/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/08f99ccd5dfd79d0222f630e36c04422/background_full.en.png",
+            "items": [
+                "cid_a_295_athena_commando_m_rustybolt_fehj0",
+                "bid_917_rustyboltmale_1dgtv"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "BID_917_RustyBoltMale_1DGTV",
+                    "name": "Sonic Resonator",
+                    "description": "Created by the Coalition of Ordered Governments to map the underground tunnels of Sera.",
+                    "type": "backpack",
+                    "rarity": "platform series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/8bf0a0652da98f441fc010a91852639a/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/8bf0a0652da98f441fc010a91852639a/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/8bf0a0652da98f441fc010a91852639a/background_full.en.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": {}
+        },
+        {
+            "id": "CID_A_294_Athena_Commando_F_RustyBolt_DB20X",
+            "name": "Kait Diaz",
+            "description": "Outsider turned soldier in the COG Army and member of Delta-One.",
+            "type": "outfit",
+            "rarity": "platform series",
+            "internalRarity": "epic",
+            "price": 1500,
+            "priceNoDiscount": 1500,
+            "categories": "Panel 19",
+            "priority": -3,
+            "banner": "",
+            "offer": "v2:/f225092638f3903bf58ccdc91c042ec37272000cb2ab3ca9182a659ff0e303d3",
+            "releaseDate": "2021-12-10",
+            "lastAppearance": "2022-05-23",
+            "interest": 0.35,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/bfd737abeebc1ee8e4a74bcd87a663c6/featured.png",
+            "icon": "https://media.fortniteapi.io/images/bfd737abeebc1ee8e4a74bcd87a663c6/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/bfd737abeebc1ee8e4a74bcd87a663c6/background_full.en.png",
+            "items": [
+                "cid_a_294_athena_commando_f_rustybolt_db20x",
+                "bid_918_rustyboltfemale_j4jw1"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "BID_918_RustyBoltFemale_J4JW1",
+                    "name": "Reyna's Pendant",
+                    "description": "Family heirloom with mysterious origins.",
+                    "type": "backpack",
+                    "rarity": "platform series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/48f2b698eb0147ce8dab8f50ccd64fec/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/48f2b698eb0147ce8dab8f50ccd64fec/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/48f2b698eb0147ce8dab8f50ccd64fec/background_full.en.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": {}
+        },
+        {
+            "id": "EID_RustyBolt_ZMR13",
+            "name": "Knife Tricks",
+            "description": "Flourish of edged weapon skills.",
+            "type": "emote",
+            "rarity": "platform series",
+            "internalRarity": "epic",
+            "price": 300,
+            "priceNoDiscount": 300,
+            "categories": "Panel 20",
+            "priority": -2,
+            "banner": "",
+            "offer": "v2:/bac96903d3f32b0a005b0bb20035f1a1eadd76db42e3d25ae09bf5ca65ca026c",
+            "releaseDate": "2021-12-10",
+            "lastAppearance": "2022-05-23",
+            "interest": 1.11,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/fb6eac296f41eaca5b1ded281e8c7c2d/featured.png",
+            "icon": "https://media.fortniteapi.io/images/fb6eac296f41eaca5b1ded281e8c7c2d/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/fb6eac296f41eaca5b1ded281e8c7c2d/background_full.en.png",
+            "items": [
+                "eid_rustybolt_zmr13"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": {}
+        },
+        {
+            "id": "Pickaxe_ID_720_RustyBoltMale_UZ5E5",
+            "name": "Thumper",
+            "description": "Call the Seeders to the surface!",
+            "type": "pickaxe",
+            "rarity": "platform series",
+            "internalRarity": "epic",
+            "price": 500,
+            "priceNoDiscount": 500,
+            "categories": "Panel 20",
+            "priority": -3,
+            "banner": "",
+            "offer": "v2:/49776f023f2a24115d2f865459a5480badbbfb852001771de48ab5701eb91433",
+            "releaseDate": "2021-12-10",
+            "lastAppearance": "2022-05-23",
+            "interest": 0.23,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/6a782f36e348fb1e1dba725fea8186fc/featured.png",
+            "icon": "https://media.fortniteapi.io/images/6a782f36e348fb1e1dba725fea8186fc/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/6a782f36e348fb1e1dba725fea8186fc/background_full.en.png",
+            "items": [
+                "pickaxe_id_720_rustyboltmale_uz5e5"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": {}
+        },
+        {
+            "id": "Pickaxe_ID_721_RustyBoltSliceMale_V3A4N",
+            "name": "Butcher Cleaver",
+            "description": "A tool for cutting Rockworm meat but also cutting down the COG.",
+            "type": "pickaxe",
+            "rarity": "platform series",
+            "internalRarity": "epic",
+            "price": 500,
+            "priceNoDiscount": 500,
+            "categories": "Panel 20",
+            "priority": -4,
+            "banner": "",
+            "offer": "v2:/ff055bc10246c9135e4f0d45674f12a17bc3c7e687a6bb93c340042a8ddfb967",
+            "releaseDate": "2021-12-10",
+            "lastAppearance": "2022-05-23",
+            "interest": 0.33,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/d4013ab6be415597548a34c2a6c46a15/featured.png",
+            "icon": "https://media.fortniteapi.io/images/d4013ab6be415597548a34c2a6c46a15/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/d4013ab6be415597548a34c2a6c46a15/background_full.en.png",
+            "items": [
+                "pickaxe_id_721_rustyboltslicemale_v3a4n"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": {}
+        },
+        {
+            "id": "Pickaxe_ID_719_RustyBoltFemale_0VJ7J",
+            "name": "Breaker Mace",
+            "description": "Locust Shell fragments affixed to a motorized rotating rod...yeah...this will break a tree.",
+            "type": "pickaxe",
+            "rarity": "platform series",
+            "internalRarity": "epic",
+            "price": 800,
+            "priceNoDiscount": 800,
+            "categories": "Panel 20",
+            "priority": -5,
+            "banner": "",
+            "offer": "v2:/72af8dae6b831210d4eacf5cd8f723e176fa163ef030fc30a0b68e9faddf31ef",
+            "releaseDate": "2021-12-10",
+            "lastAppearance": "2022-05-23",
+            "interest": 0.25,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/4829b7540763fe2cac71385bf7b4325b/featured.png",
+            "icon": "https://media.fortniteapi.io/images/4829b7540763fe2cac71385bf7b4325b/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/4829b7540763fe2cac71385bf7b4325b/background_full.en.png",
+            "items": [
+                "pickaxe_id_719_rustyboltfemale_0vj7j"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": {}
+        },
+        {
+            "id": "Glider_ID_333_RustyBolt_13IXR",
+            "name": "Skiff",
+            "description": "Fast, wind powered, land vehicle that provides no protection from the elements.",
+            "type": "glider",
+            "rarity": "platform series",
+            "internalRarity": "epic",
+            "price": 800,
+            "priceNoDiscount": 800,
+            "categories": "Panel 20",
+            "priority": -6,
+            "banner": "",
+            "offer": "v2:/bc6e25d59a78cd559975873728aacdf0f7b96b6ce28d34fee732ee6ac0ce9418",
+            "releaseDate": "2021-12-10",
+            "lastAppearance": "2022-05-23",
+            "interest": 0.26,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/ca97a6e43a8f3c62ab6584f2444b4ebf/featured.png",
+            "icon": "https://media.fortniteapi.io/images/ca97a6e43a8f3c62ab6584f2444b4ebf/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/ca97a6e43a8f3c62ab6584f2444b4ebf/background_full.en.png",
+            "items": [
+                "glider_id_333_rustybolt_13ixr"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": {}
+        }
+    ],
+    "specialDaily": [],
+    "community": [],
+    "offers": [
+        {
+            "id": "CarbideKnightLevelUpPack",
+            "name": "OMEGA KNIGHT'S LEVEL UP QUEST PACK",
+            "description": "",
+            "type": "bundle",
+            "rarity": "uncommon",
+            "internalRarity": "uncommon",
+            "price": 1200,
+            "priceNoDiscount": 1200,
+            "categories": "",
+            "priority": 18,
+            "banner": "",
+            "offer": "0C2668A5493A582060888381E21DCCBC",
+            "releaseDate": "2022-05-05",
+            "lastAppearance": "2022-05-23",
+            "interest": 1.76,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_CarbideKnightLevelUpPack.png",
+            "icon": "https://media.fortniteapi.io/images/21a81f20dfc98958ab69f7a37f0d14f8/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/21a81f20dfc98958ab69f7a37f0d14f8/background_full.en.png",
+            "items": [
+                "cid_a_401_athena_commando_m_carbideknight",
+                "season20_leveluppack_schedule"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "CID_A_401_Athena_Commando_M_CarbideKnight",
+                    "name": "Omega Knight",
+                    "description": "There can only be one knight.",
+                    "type": "outfit",
+                    "rarity": "epic",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/e4f211fe40a7ba17ee9281e3aa403eff/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/e4f211fe40a7ba17ee9281e3aa403eff/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/e4f211fe40a7ba17ee9281e3aa403eff/background_full.en.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": {
+                "background": "#FF191229FF",
+                "gradient": {
+                    "start": "FF0EA5E5FF",
+                    "stop": "C7E6F200"
+                }
+            }
+        },
+        {
+            "id": "DualLegendsBundle",
+            "name": "DOUBLE AGENT PACK",
+            "description": "",
+            "type": "bundle",
+            "rarity": "epic",
+            "internalRarity": "common",
+            "price": 2500,
+            "priceNoDiscount": 2500,
+            "categories": "",
+            "priority": 16,
+            "banner": "",
+            "offer": "467D6E4D402192EC8D086FB33762E2F6",
+            "releaseDate": "2020-07-10",
+            "lastAppearance": "2022-05-23",
+            "interest": 2.73,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_DualLegendsBundle.png",
+            "icon": "https://media.fortniteapi.io/images/ae3f3bc217d97845e2d8f2df64699f59/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/ae3f3bc217d97845e2d8f2df64699f59/background_full.en.png",
+            "items": [
+                "cid_786_athena_commando_f_cavalrybandit_ghost",
+                "bid_546_cavalrybanditghost",
+                "cid_787_athena_commando_m_heist_ghost",
+                "bid_547_heistghost",
+                "cid_788_athena_commando_m_mastermind_ghost",
+                "bid_548_mastermindghost"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "CID_786_Athena_Commando_F_CavalryBandit_Ghost",
+                    "name": "Double Agent Hush",
+                    "description": "Haunt your enemy's every move.",
+                    "type": "outfit",
+                    "rarity": "epic",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/33893c642ee8066bded28b40ca9eb875/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/33893c642ee8066bded28b40ca9eb875/featured.png",
+                        "background": "https://media.fortniteapi.io/images/33893c642ee8066bded28b40ca9eb875/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/33893c642ee8066bded28b40ca9eb875/background_full.en.png"
+                    }
+                },
+                {
+                    "id": "BID_546_CavalryBanditGhost",
+                    "name": "Double Agent Stripe",
+                    "description": "Agency inspired angularity.",
+                    "type": "backpack",
+                    "rarity": "epic",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/4f99ad006d812e59bf2fbd0e888d0996/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/4f99ad006d812e59bf2fbd0e888d0996/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/4f99ad006d812e59bf2fbd0e888d0996/background_full.en.png"
+                    }
+                },
+                {
+                    "id": "CID_787_Athena_Commando_M_Heist_Ghost",
+                    "name": "Double Agent Wildcard",
+                    "description": "Everything according to plan.",
+                    "type": "outfit",
+                    "rarity": "epic",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/f0b26d053e6d305d220a1e7a40e7ed1d/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/f0b26d053e6d305d220a1e7a40e7ed1d/featured.png",
+                        "background": "https://media.fortniteapi.io/images/f0b26d053e6d305d220a1e7a40e7ed1d/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/f0b26d053e6d305d220a1e7a40e7ed1d/background_full.en.png"
+                    }
+                },
+                {
+                    "id": "BID_547_HeistGhost",
+                    "name": "Double Agent Hard Case",
+                    "description": "Make your case.",
+                    "type": "backpack",
+                    "rarity": "epic",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/d136263293a96e42f60d6258437d03a9/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/d136263293a96e42f60d6258437d03a9/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/d136263293a96e42f60d6258437d03a9/background_full.en.png"
+                    }
+                },
+                {
+                    "id": "CID_788_Athena_Commando_M_Mastermind_Ghost",
+                    "name": "Chaos Double Agent",
+                    "description": "Chaos beyond measure.",
+                    "type": "outfit",
+                    "rarity": "epic",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/bff6a74e37edc3684d9b8a45298f7187/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/bff6a74e37edc3684d9b8a45298f7187/featured.png",
+                        "background": "https://media.fortniteapi.io/images/bff6a74e37edc3684d9b8a45298f7187/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/bff6a74e37edc3684d9b8a45298f7187/background_full.en.png"
+                    }
+                },
+                {
+                    "id": "BID_548_MastermindGhost",
+                    "name": "Double Agent Ooze Unit",
+                    "description": "Next generation ooze containment chamber.",
+                    "type": "backpack",
+                    "rarity": "epic",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/43e67900ffec92dfc864049a25898dd3/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/43e67900ffec92dfc864049a25898dd3/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/43e67900ffec92dfc864049a25898dd3/background_full.en.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": {
+                "background": "#FFBA8428FF",
+                "gradient": {
+                    "start": "FFBA8428FF",
+                    "stop": "E8CE7A00"
+                }
+            }
+        },
+        {
+            "id": "ShadowPickaxeBundle",
+            "name": "Shadow Pickaxe Pack",
+            "description": "",
+            "type": "bundle",
+            "rarity": "rare",
+            "internalRarity": "common",
+            "price": 1200,
+            "priceNoDiscount": 1200,
+            "categories": "",
+            "priority": 15,
+            "banner": "",
+            "offer": "30B5FCC34C30A02C782A46929D5606A6",
+            "releaseDate": "2020-07-10",
+            "lastAppearance": "2022-05-23",
+            "interest": 2.91,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_ShadowPickaxeBundle.png",
+            "icon": "https://media.fortniteapi.io/images/d35e45a3034d793c144685150c6bbbe4/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/d35e45a3034d793c144685150c6bbbe4/background_full.en.png",
+            "items": [
+                "pickaxe_id_403_cavalrybanditshadow1h",
+                "pickaxe_id_407_heistshadow",
+                "pickaxe_id_408_mastermindshadow"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "Pickaxe_ID_403_CavalryBanditShadow1H",
+                    "name": "Shadow Blades",
+                    "description": "Shadow's silent blades.",
+                    "type": "pickaxe",
+                    "rarity": "rare",
+                    "internalRarity": "rare",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/aae06c7ad95937df838fd13237b9d2e5/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/aae06c7ad95937df838fd13237b9d2e5/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/aae06c7ad95937df838fd13237b9d2e5/background_full.en.png"
+                    }
+                },
+                {
+                    "id": "Pickaxe_ID_407_HeistShadow",
+                    "name": "Gold Crow",
+                    "description": "Give it a pry.",
+                    "type": "pickaxe",
+                    "rarity": "rare",
+                    "internalRarity": "rare",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/6c713c090223cb2e8478dbfe6d5fd649/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/6c713c090223cb2e8478dbfe6d5fd649/featured.png",
+                        "background": "https://media.fortniteapi.io/images/6c713c090223cb2e8478dbfe6d5fd649/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/6c713c090223cb2e8478dbfe6d5fd649/background_full.en.png"
+                    }
+                },
+                {
+                    "id": "Pickaxe_ID_408_MastermindShadow",
+                    "name": "Mayhem Scythe",
+                    "description": "Mayhem is golden...",
+                    "type": "pickaxe",
+                    "rarity": "rare",
+                    "internalRarity": "rare",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/fd14e2b4088bc5332387311d6fe90373/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/fd14e2b4088bc5332387311d6fe90373/featured.png",
+                        "background": "https://media.fortniteapi.io/images/fd14e2b4088bc5332387311d6fe90373/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/fd14e2b4088bc5332387311d6fe90373/background_full.en.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": {
+                "background": "#FFBA8428FF",
+                "gradient": {
+                    "start": "FFBA8428FF",
+                    "stop": "E8CE7A00"
+                }
+            }
+        }
+    ]
+}
