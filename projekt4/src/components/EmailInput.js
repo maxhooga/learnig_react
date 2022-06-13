@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Input from "./Input";
 
-function PhoneInput(props) {
+function EmailInput(props) {
     const initialState = {
         isValid: false,
         value: '',
@@ -10,13 +10,13 @@ function PhoneInput(props) {
     }
     const [state, setState] = useState(initialState);
     
-    const validatePhoneNumber = (phone) => {
-        const regex = /^([+]?[\s0-9]+)?(\d{3}|[(]?[0-9]+[)])?([-]?[\s]?[0-9])+$/;
-        return regex.test(phone);
+    const validateEmail = (email) => {
+        const regex = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/;
+        return regex.test(email);
     }
 
     const changeHandler = (e) => {
-        let validation = validatePhoneNumber(e.target.value);
+        let validation = validateEmail(e.target.value);
         setState({...state,
             value: e.target.value,
             isValid: validation,
@@ -28,7 +28,7 @@ function PhoneInput(props) {
         <div>
             <div className={state.style}>
                 <Input 
-                    placeholder={ "enter your phone number" }
+                    placeholder={ "enter your email" }
                     value={ state.value }
                     onChange={ changeHandler }
                 />
@@ -38,10 +38,10 @@ function PhoneInput(props) {
                 onClick={ () => props.clickHandler("OTPBox") }
             >send sms</button>
             <button
-                onClick={ () => props.clickHandler("emailInput") }
-            >use e-mail</button>
+                onClick={ () => props.clickHandler("phoneInput") }
+            >i changed my mind, i`l use my phone</button>
         </div>
     );
 }
 
-export default PhoneInput;
+export default EmailInput;
