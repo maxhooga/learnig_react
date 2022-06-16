@@ -5,8 +5,12 @@ import "./FirstEnter.css"
 function FirstEnter() {
 
   return (
-    <div>
+    <div className="container">
       <AccountsIntrests />
+      <div>
+          <button>previous step</button>
+          <button>next step</button>
+      </div>
     </div>
   );
 

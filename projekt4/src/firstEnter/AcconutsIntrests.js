@@ -4,13 +4,15 @@ import Intrest from "./Intrest";
 
 function AccountsIntrests() {
 
-    const [state, setState] = useState(new Array);   
+    const [state, setState] = useState(new Array);
+    const [visible, setVisible] = useState(35);//temp ficha, using to decrease or to add images for testing purpose
 
     const createList = () => {
-        let copy =  JSON.parse(JSON.stringify(ImagesFirstEnter.intrests))
-        copy.map((item, index) => {
-               copy[index].isChoosed = false;
-        })
+        const copy =  JSON.parse(JSON.stringify(ImagesFirstEnter.intrests)).map((item, index) => ({
+            ...item,
+            isChoosed: false,
+            index: index
+        }))
         setState(copy);
     }
 
@@ -22,31 +24,29 @@ function AccountsIntrests() {
     useEffect(
         () => {
             console.log(state);
-        },[]
+        },[state]
     )
 
     const choosedIntrest = (intrest) => {
-        let pickedIndex = state.findIndex(obj => obj.name == intrest.name);
-        let copy =  JSON.parse(JSON.stringify(state));
+        const pickedIndex = state.findIndex(obj => obj.index == intrest.index);
+        const copy =  JSON.parse(JSON.stringify(state));
         copy[pickedIndex].isChoosed = !copy[pickedIndex].isChoosed;
         setState(copy);
-        console.log(state);
     }
 
     return (
         <div className="container">
-            <input />
+            <p>Choose your intrests</p>
             <div className="acountIntrests">
                 { 
                     state.map((intrest, index) => {
                         return (
-                            <div className="pickedIntrest">
-                                <Intrest
-                                    intrest={ intrest }
-                                    key={ index }
-                                    choosedIntrest={ choosedIntrest }
-                                />
-                            </div>
+                            visible > index ? 
+                            <Intrest
+                                intrest={ intrest }
+                                key={ index }
+                                choosedIntrest={ choosedIntrest }
+                            /> : ""
                         )
                     })
                 }
@@ -55,8 +55,3 @@ function AccountsIntrests() {
     );
 }
 export default AccountsIntrests;
-/*
-display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-  gap: 1rem;
-*/
