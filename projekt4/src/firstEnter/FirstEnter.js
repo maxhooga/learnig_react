@@ -1,11 +1,10 @@
 import React, { useState } from "react";
 import AccountsIntrests from "./AcconutsIntrests";
-import "./FirstEnter.css"
 
 function FirstEnter() {
 
   return (
-    <div className="container">
+    <div>
       <AccountsIntrests />
       <div>
           <button>previous step</button>

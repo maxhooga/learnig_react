@@ -30,37 +30,10 @@ function Registration() {
   }
 
   return (
-    <div className="container">
+    <div  className="container">
       { switchTo() }
     </div>
   );
 
 }
 export default Registration;
-
-  /*
-  
-  const [state, setState] = useState("phoneInput");
-
-
-  const switchTo = () => {
-    switch(state){
-      case "phoneInput":
-        return <InputValidation
-            type={ "phone" }
-          />
-      case "emailInput":
-        return <InputValidation
-                  type={ "email" }
-                />
-    }
-  }
-
-  return(
-    <div className="contaner">
-      { switchTo() }
-    </div>
-  )
- 
-
-  */

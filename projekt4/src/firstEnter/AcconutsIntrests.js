@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import ImagesFirstEnter from "./ImagesFirstEnter";
 import Intrest from "./Intrest";
+import { ListStyle, AcountIntrests } from "./FirstEnter.style.js"
 
 function AccountsIntrests() {
 
@@ -10,8 +11,9 @@ function AccountsIntrests() {
     const createList = () => {
         const copy =  JSON.parse(JSON.stringify(ImagesFirstEnter.intrests)).map((item, index) => ({
             ...item,
-            isChoosed: false,
-            index: index
+            isChoosen: false,
+            index: index,
+            id: `${item.name} - ${Math.random()}`
         }))
         setState(copy);
     }
@@ -21,37 +23,39 @@ function AccountsIntrests() {
             createList();
         },[]
     )
-    useEffect(
-        () => {
-            console.log(state);
-        },[state]
-    )
 
-    const choosedIntrest = (intrest) => {
-        const pickedIndex = state.findIndex(obj => obj.index == intrest.index);
-        const copy =  JSON.parse(JSON.stringify(state));
-        copy[pickedIndex].isChoosed = !copy[pickedIndex].isChoosed;
-        setState(copy);
+    const choiceHandler = (choice) => {
+        
+        const pickedIndex = state.findIndex(obj => obj.id == choice.id);
+        setState([
+            ...state.slice(0, pickedIndex), 
+            {...state[pickedIndex], 
+            isChoosen: !state[pickedIndex].isChoosen}, 
+            ...state.slice(pickedIndex+1)
+        ]);
     }
 
     return (
-        <div className="container">
+        <ListStyle>
             <p>Choose your intrests</p>
-            <div className="acountIntrests">
+            <AcountIntrests>
                 { 
                     state.map((intrest, index) => {
                         return (
                             visible > index ? 
                             <Intrest
-                                intrest={ intrest }
-                                key={ index }
-                                choosedIntrest={ choosedIntrest }
-                            /> : ""
+                                id={ intrest.id }
+                                key={ intrest.id }
+                                image={ intrest.image }
+                                description={ intrest.description }
+                                isChoosen={ intrest.isChoosen }
+                                choiceHandler={ choiceHandler }
+                            /> : null
                         )
                     })
                 }
-            </div>
-        </div>
+            </AcountIntrests>
+        </ListStyle>
     );
 }
 export default AccountsIntrests;

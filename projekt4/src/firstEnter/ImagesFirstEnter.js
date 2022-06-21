@@ -1,17 +1,9 @@
-import joystick from "./images/joystick.svg";
-import present from "./images/present.svg";
-import heart from "./images/heart.svg";
-import gastronomy from "./images/gastronomy.svg";
-import shopping from "./images/shopping.svg";
-import travel from "./images/travel.svg";
-
-
 const ImagesFirstEnter = {
     intrests: [
         {
             name: "shopping",
             image: "https://i.pinimg.com/originals/98/bb/89/98bb896f6dc329c4db17f8d4a98f6ae3.gif",
-            description: "Stuff"
+            description: "cat"
         },
         {
             name: "shopping",
