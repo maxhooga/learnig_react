@@ -1,29 +1,3 @@
-.container{
-    border: 1px solid black;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    height: calc(100vh-10px);
-}
-
-.phoneInputStyle{
-    border: 3px solid #10374f;
-    border-radius: 5px;
-}
-
-.notValid{
-    border: 3px solid red;
-    background-color: red;
-}
-
-.otpStyle{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    min-width: 150px;    
-}
-
-.otpStyleInput{
-    width: 18px;
-    height: 18px;
+*{
+    box-sizing: border-box;
 }
